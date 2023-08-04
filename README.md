@@ -10,3 +10,13 @@ employee along with Educational, Certification, Skill and Project
 details. It enhances the HR Management in adding, viewing and
 updating employees’ details and generates various reports regarding
 employee’s skill and experience.
+
+Team Project:
+
+Sneha Srinivasan - PES2UG20CS342
+
+Tejal Meda - PES2UG20CS369
+
+Srushti V Reddy - PES2UG20CS353
+
+Vaishali Ganesh Kumar - PES2UG20CS376
