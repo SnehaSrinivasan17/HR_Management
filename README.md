@@ -1,4 +1,4 @@
-# Human-Resoucres-Management
+# Human-ResourCes-Management
 Human Resource Management System will enable corporate companies to
 understand their characteristics and details regarding their work
 process. We are planning on creating a starightforward , user
